@@ -1,5 +1,3 @@
-# platzi-exchange
-
 ## Project setup
 ```
 npm install
@@ -21,5 +19,7 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# coin-exange
+
+### Learning In Platzi ###
+
+# coin-exange - This is a proyect to work with VueJs and practice the basics from the framework
